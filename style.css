@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  text-align:center;
+  font-family: sans-serif;
+  line-height: 1.7;
+  padding: 20px;
+}
+ 
+section {
+  margin-bottom: 24px;
+  padding: 20px 24px;
+  text-align:left;
+  max-width: 500px;
+  margin: 32px auto;
+  color:black;
+  background-color: rgba(123, 252, 151, 0.692);
+}
+ 
+h1{
+  font-family: 'Times New Roman';
+    margin-top: 0;
+color: rgb(7, 63, 0);
+  text-align: center;
+}
+
+h2 {
+  font-family:serif;
+    margin-top: 0;
+
+  text-align: center;
+}
+ 
+footer {
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+}
+ 
